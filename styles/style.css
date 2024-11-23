@@ -44,7 +44,7 @@
 
 .address {
   justify-self: right;
-  align-content: center;
+  align-self: center;
   font-size: 18px;
   font-style: normal;
   line-height: 24px;
@@ -271,7 +271,7 @@
   grid-template-columns: 1fr 2fr 1fr;
   justify-content: space-around;
   gap: 19px;
-  margin: 205px 50px 88px 50px;
+  margin: 181px 50px 88px 50px;
 }
 
 .footer__address {
@@ -284,7 +284,7 @@
 }
 
 .footer__menu-list {
-  justify-items: center;
+  text-align: center;
 }
 
 .footer__menu-list-item {
