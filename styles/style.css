@@ -6,7 +6,7 @@
 }
 
 .header__menu {
-  align-content: center;
+  align-self: center;
 }
 
 .header__links-list {
@@ -263,6 +263,7 @@
   gap: 24px;
   font-size: 20px;
   text-wrap-style: balance;
+  margin-right: 24px;
 }
 
 .footer {
